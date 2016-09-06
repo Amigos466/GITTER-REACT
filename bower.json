@@ -1,0 +1,17 @@
+{
+  "name": "lits-gitter-test",
+  "description": "test Project for LITS",
+  "main": "index.js",
+  "authors": [
+    "Vladislav Belous <belousvladislav@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}

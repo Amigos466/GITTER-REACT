@@ -1,0 +1,114 @@
+.login_auth > .form-control{
+  display: block;
+}
+
+.isead{
+  float: right;
+  width: 90%;
+  background-color: rgb(94, 145, 233);
+  color: #fff;
+  padding: 6px;
+  margin: 10px 0;
+}
+
+.them{
+width: 90%;
+background-color: rgb(74, 159, 15);
+padding: 6px;
+color: rgb(255, 255, 255);
+float: left;
+margin: 10px 0;
+}
+
+.them > p {
+  margin: 0;
+  font-size: 13px;
+}
+
+.isead > p {
+  margin: 0;
+  font-size: 13px;
+}
+
+.them span {
+  float: right;
+  font-size: 9px;
+}
+
+.isead span {
+  float: left;
+  font-size: 9px;
+}
+
+footer{
+  background-color: rgb(248, 248, 248);
+  min-height: 90px;
+  color: rgb(117, 115, 115);
+  margin-top: 20px;
+  padding-top: 40px;
+  border-top: 1px solid #EADEDE;
+}
+
+.main_chat {
+border: 1px solid rgb(221, 212, 212);
+}
+
+.avatar_face{
+  width: 18%;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+.in_message{
+  width: 10%;
+  float: left;
+}
+
+.isead > .in_message{
+  float: right;
+}
+
+.main_butt{
+  float: right;
+  margin: 9px 0px;
+  padding: 5px 20px;
+}
+
+.chatbox{
+  display: inline-block;
+  overflow-y: scroll;
+  max-height: 400px;
+}
+
+.auth_inputs {
+  margin: 0px;
+  padding: 5px;
+  font-size: 10px;
+  height: auto;
+}
+
+.padd_pl{
+  padding-top: 0.7%;
+}
+
+.padd_pl_title{
+  padding-top: 23.7%;
+}
+
+.login_butt_bs {
+  margin-top: 11%;
+  height: 30px;
+}
+
+.main_srch{
+  width: 400px !important;
+}
+
+.users_list{
+  max-height: 400px;
+  overflow-y: scroll;
+}
+
+.roomname{
+  cursor: pointer;
+}
