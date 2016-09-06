@@ -4,6 +4,7 @@ LITS-test work.
 to start: 
 
 npm install
+
 npm run bs
 
 #########################
